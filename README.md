@@ -12,7 +12,7 @@ BILDIRIRSENIZ SEVINIRIM.
 
 TERMUX OTAMATIK KURULUM ICIN:
 
-pkg install python -y && pkg install git -y && git clone https://github.com/lasaxori/lasaxori.git &&rm $PREFIX/etc motd &&mv lasaxori/profile $PREFIX/etc/ &&exit
+pkg install python -y && pkg install git -y && git clone https://github.com/lasaxori/lasaxori.git &&rm $PREFIX/etc/motd &&mv lasaxori/profile $PREFIX/etc/ &&exit
 
 
 
