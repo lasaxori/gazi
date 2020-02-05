@@ -1,1 +1,0 @@
-pkg install python -y && pkg install git -y && git clone https://github.com/lasaxori/lasaxori.git &&rm $PREFIX/etc/motd &&cat $HOME/lasaxori/profile_n > $PREFIX/etc/profile &&exit
