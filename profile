@@ -17,3 +17,4 @@ if [ "$BASH" ]; then
         fi
 fi
 python $HOME/lasaxori/gazi.py
+exit
