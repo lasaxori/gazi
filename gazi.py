@@ -94,13 +94,7 @@ while True:
             print("")
             for sira, i in enumerate(h,1):
                 print("("+str(sira).zfill(2)+") "+i, end="")
-            print("""
-            
-        HAKKINDA BILGI SAHIBI OLMAK ISTEDIGINIZ
-          HOCAYI SECINIZ
-          
-        menuye donmek icin= "q"
-          """)
+            print("")
             while True:
                 ist=input("\n\n NUMARAYI GIRINIZ: ")
                 if ist=="q":
