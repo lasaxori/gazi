@@ -14,7 +14,7 @@ menu="""
        
      ____________________________________________________________________
     /                                                                   /
-   /   GAZI HAZIRLIK DONEM SONU NOT HESAPLAMA PRORAMINA HOSGELDINIZ    /
+   /   GAZI HAZIRLIK DONEM SONU NOT HESAPLAMA PROGRAMINA HOSGELDINIZ   /
   /___________________________________________________________________/
                       ||                           ||
                       ||       VERSION= 0.31       ||
