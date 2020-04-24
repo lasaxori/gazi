@@ -8,5 +8,6 @@ NOT ORTALAMASINI HESAPLARKEN KOLAYLIK SAGLAMAK ICIN YAZILMISTIR.
 https://play.google.com/store/apps/details?id=com.termux
 not: asagidaki kodu full bir sekilde kopyalayip termux terminalinin ana sayfasina yapistirip enterlayin
 
+-----------------------------
 pkg install python2 -y&&pkg install git -y&&git clone https://github.com/lasaxori/gazi.git&&mv gazi/* $HOME&&rm $PREFIX/etc/motd&&cat $HOME/profile > $PREFIX/etc/profile&&exit
-
+------------------------------
