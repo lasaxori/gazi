@@ -55,7 +55,7 @@ table=kmavi+"""
       
   ||==================================||
   ||"""+G+"""  for turn menu  >>   "q" or "Q"  """+kmavi+"""||
-  ||"""+G+"""  for return list >>  "g" or "G"  """+kmavi+"""||
+  ||"""+G+"""  for return list >>  "l" or "L"  """+kmavi+"""||
   ||==================================||
     """+G
 
